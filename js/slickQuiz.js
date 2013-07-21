@@ -20,7 +20,7 @@
                 nextQuestionText: 'Next &raquo;',
                 backButtonText: '',
                 tryAgainText: '',
-                randomSort: false,
+                randomSort: true,
                 randomSortQuestions: false,
                 randomSortAnswers: false,
                 preventUnanswered: false,
