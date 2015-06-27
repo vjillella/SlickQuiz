@@ -3,6 +3,8 @@ A jQuery plugin for creating pretty, dynamic quizzes.
 
 ## Demo And Usage
 
+[![Join the chat at https://gitter.im/vjillella/SlickQuiz](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/vjillella/SlickQuiz?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 See index.html for demo and suggested HTML structure (the element class names are the important part).
 
 See js/slickQuiz-config.js to set up your quiz copy and questions.
